@@ -19,7 +19,7 @@ export default function Header(props) {
                                 Stay<span className="text-gray-900">cation.</span>
                             </Button>
                         </nav>
-                    </div>
+                    </div> 
                 </header>
             </Fade>
         );
